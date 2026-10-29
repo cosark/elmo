@@ -139,6 +139,8 @@ Or copy [`skills/aeo`](skills/aeo) into your agent's skills directory (for Claud
 
 ## Deployment Options
 
+[![Deploy on RepoCloud](https://d16t0pc4846x52.cloudfront.net/deploylobe.svg)](https://repocloud.io/details/Elmo/)
+
 | Option | What you get | Price |
 |---|---|---|
 | **Self-hosted** | The full platform on your own infrastructure via Docker Compose, unlimited prompts, every supported engine and provider | Free (MIT) |
